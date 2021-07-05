@@ -151,6 +151,10 @@
         ><i class="fab fa-discord"></i
       ></a>
       </div>
+      <div class="center">
+      <p> <br> Copyright © 2021 tüm hakları saklıdır. <br> Bu website Ahmet Unsal tarafından yazılmıştır.
+    </p>
+     </div>
     </footer>
 
     <!-- Toggle -->
@@ -198,3 +202,4 @@
     </script>
   </body>
 </html>
+
