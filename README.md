@@ -40,7 +40,11 @@
       <div class="skill_box center">
         <div class="box">
           <i class="fab fa-android fa-4x"></i>
-          <p>Android</p>
+          <p>Kotlin</p>
+        </div>
+        <div class="box">
+          <i class="fab fa-java fa-4x"></i>
+          <p>Java</p>
         </div>
         <div class="box">
           <i class="fab fa-html5 fa-4x"></i>
@@ -202,4 +206,3 @@
     </script>
   </body>
 </html>
-
