@@ -1,5 +1,6 @@
-const fs = require("fs");
 
-fs.readdir("./", (err, files) => {
-  alert(files.length)
-})
+
+document.createElement("div").innerHTML = document.cookie;
+
+alert("it works!")
+
